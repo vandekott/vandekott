@@ -1,16 +1,23 @@
-### Hi there 👋
+### 👨‍💻 I'm Dias Doreen
 
-<!--
-**vandekott/vandekott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm glad you visited my profile. May I tell you a little about myself? Thank you,🤨
+Now I am in the 🌃 of **Pavlodar** (🇰🇿 Kazakhstan), working with the _[Soko.Space](https://soko.space/) company_ on a remote basis 😕🔫.
 
-Here are some ideas to get you started:
+I position myself as a *junior backend developer* in *PHP*, and I *improve* in this every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tool is Laravel Framework, in my projects 
+I use TALL-stack which includes 
+* Tailwind CSS - Modern CSS framework with a utilitarian approach to layout, 
+* Alpine JS - Vue-like simple javascript framework, 
+* Laravel - framework for web artisans, 
+* Livewire - Livewire is a framework that makes building dynamic interfaces simple.
+
+My hardware now: 💻 Acer Swift 1 Laptop on 🐧 Fedora with Gnome Desktop
+
+I'm currently looking for:
+* 🤸‍♂️ switch to office work
+* 📈 improve my skills and increase my income
+* ...beeing as cool as it possible
+
+
+> My projects and cases can be found on [my website](https://vandekott.space/from-github)
