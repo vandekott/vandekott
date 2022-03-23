@@ -2,7 +2,7 @@
 
 I'm glad you visited my profile. May I tell you a little about myself? Thank you, 🤨
 
-Now I am in the 🌃 of **Pavlodar** (🇰🇿 Kazakhstan), working with the _[Soko.Space](https://soko.space/) company_ on a remote basis 😕🔫.
+Now I am in the 🌃 of **Pavlodar** (🇰🇿 Kazakhstan), working with the _[Webparadox LLC](https://webparadox.com/) company_ on a remote basis 😕🔫.
 
 I position myself as a *junior backend developer* in *PHP*, and I *improve* in this every day.
 
